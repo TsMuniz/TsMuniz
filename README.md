@@ -1,6 +1,6 @@
 <img src="./assets/capa.png"/>
 
-## Olá mundo!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Olá mundo!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">
 ## Eu sou o Thiago
 
 - Desenvolvedor Web Jr.
