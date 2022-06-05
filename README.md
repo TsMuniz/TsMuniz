@@ -9,7 +9,7 @@
 - 👨‍🎓 Estudando as principais tecnologias do backend.
 - ➕ Buscando sempre ser melhor do que eu era antes.
 
-<br><br>
+##
 
 ### 👨🏽‍🦲 Contato
   <div margin-top="15px" > 
@@ -17,12 +17,12 @@
     <a href="https://contate.me/thiagomunizdev" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
     <a href="https://www.linkedin.com/in/thiagomunizdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   </div>
-<br><br>
 
+##
 
   <img display="block" align="center" heigth="50em" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsMuniz&layout=compact&langs_count=7&theme=dark"/>
 
-<br><br>
+##
 
   ### 🛠️ Tecnologias que conheço
  <div style="display: inline_block"><br>
