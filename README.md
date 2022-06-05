@@ -1,7 +1,7 @@
 <img src="./assets/capa.png"/>
 
-## Olá mundo! ✋
-## Eu sou o Thiago
+ <h1>Olá mundo! ✋
+ Eu sou o Thiago</h1>
 
 - 💻 Desenvolvedor Web Jr.
 - 🎮 Jogador de lol que só joga aram.
@@ -11,7 +11,7 @@
 
 <br><br>
 
-### Contato
+### 👨🏽‍🦲 Contato
   <div margin-top="15px" > 
   <a href = "mailto:ts_muniz@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://contate.me/thiagomunizdev" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
@@ -24,7 +24,7 @@
 
 <br><br>
 
-  ### Tecnologias que conheço
+  ### 🛠️ Tecnologias que conheço
  <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
