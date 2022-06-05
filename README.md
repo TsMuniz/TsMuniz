@@ -3,11 +3,11 @@
 ## Olá mundo! ✋
 ## Eu sou o Thiago
 
-- Desenvolvedor Web Jr.
-- Jogador de lol que só joga aram.
-- Movido por desafios e apaixonado por tecnologia.
-- Estudando as principais tecnologias do backend.
-- Buscando sempre ser melhor do que eu era antes.
+- 💻 Desenvolvedor Web Jr.
+- 🎮 Jogador de lol que só joga aram.
+- 💙 Movido por desafios e apaixonado por tecnologia.
+- 👨‍🎓 Estudando as principais tecnologias do backend.
+- ➕ Buscando sempre ser melhor do que eu era antes.
 
 <br><br>
 
@@ -20,7 +20,7 @@
 <br><br>
 
 
-  <img display="block" align="center" heigth="50em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsMuniz&layout=compact&langs_count=7&theme=dark"/>
+  <img display="block" align="center" heigth="50em" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsMuniz&layout=compact&langs_count=7&theme=dark"/>
 
 <br><br>
 
