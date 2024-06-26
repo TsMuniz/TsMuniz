@@ -3,7 +3,7 @@
  <h1>Olá mundo! ✋
  Eu sou o Thiago</h1>
 
-- 💻 Desenvolvedor Web Jr.
+- 💻 Desenvolvedor Web.
 - 🎮 Jogador de lol que só joga aram.
 - 💙 Movido por desafios e apaixonado por tecnologia.
 - 👨‍🎓 Estudando as principais tecnologias do backend.
